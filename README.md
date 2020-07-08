@@ -1,6 +1,5 @@
-# haloqaqa
+# DISCORD CLIENT-DEVELOPER
 
-`test doang` 
-# WOWKOWOKOKWAOKOWKOKWA
 
-v.1.1 waiwaowakwka
+# [Discord](https://discord.gg/uKDXFbq)
+# [YT](https://www.youtube.com/channel/UCV6c67PLrgc6CWNzFXiVQSA)
