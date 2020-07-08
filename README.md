@@ -8,7 +8,7 @@
 | `rnggadosen._#3854` | **446493832482390017** |
 | `Syreg#8143` | **725959811434414091** |
 | `Bukan-Tada#0964` | **655239517409771521** |
-| `Baryholomeouw#2415` | **627864963418947605** |
+| `Bartholomeouw#2415` | **627864963418947605** |
 
 ## DONASI
 [`Trakteer`](https://trakteer.id/clientdev/) | [`Saweria`](https://saweria.co/clientdev)
