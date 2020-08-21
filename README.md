@@ -9,9 +9,9 @@
 | `Syreg#8143` | **725959811434414091** |
 | `Bukan-Tada#0964` | **655239517409771521** |
 | `Bartholomeouw#2415` | **627864963418947605** |
-| `Med` | **u̵̺͋͐͌͝ñ̷̝̐̆̈́k̸̢̯̈́͒ṋ̴̉̾̒ọ̸̭̟̎́w̴̬̫̌̉n̴͔̉͑** |
-| `Flocknet` | **unknown** |
-| `Zen` | **unknown** |
+| `Med#3754` | **366169273485361153** |
+| `Flocknet#2020` | 426712723108134923 |
+| `Zen#1053` | **725331428962992131** |
 
 ## DONASI
 [`Trakteer`](https://trakteer.id/clientdev/) | [`Saweria`](https://saweria.co/clientdev)
